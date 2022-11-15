@@ -7,6 +7,10 @@ It also have the system that player must have permission to select otherwise it 
  • MySQL\
  • Minecraft 1.19.2
  
+# Showcase
+
+https://user-images.githubusercontent.com/88251253/201910268-fdf1218a-afbd-4bdc-a864-f2990e41bdc5.mp4
+
 # Example Configuration
 
 (You can add skins as much as you want)
