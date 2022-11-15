@@ -3,6 +3,8 @@
 Skin selector is the plugin which allow you to select minecraft skins via in-game gui.\ 
 It also have the system that player must have permission to select otherwise it will not change.
 
+# Support
+  MySQL
 
 Example Configuration: (You can add skins as much as you want)
 
